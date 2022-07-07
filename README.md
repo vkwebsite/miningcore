@@ -51,7 +51,7 @@ or
 Download and install the [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 
 ```dosbatch
-git clone https://github.com/oliverw/miningcore
+git clone https://github.com/vkwebsite/miningcore
 cd miningcore
 build-windows.bat
 ```
@@ -65,7 +65,7 @@ build-windows.bat
 In case you don't want to install any dependencies then you can build the app using the official Microsoft .NET SDK Docker image.
 
 ```console
-git clone https://github.com/oliverw/miningcore
+git clone https://github.com/vkwebsite/miningcore
 cd miningcore
 ```
 Then build using Docker:
